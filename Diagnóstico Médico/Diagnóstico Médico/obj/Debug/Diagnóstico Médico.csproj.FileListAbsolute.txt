@@ -1,0 +1,7 @@
+C:\Users\mairg\Downloads\Proyecto_Final_Datos\Diagnóstico Médico\Diagnóstico Médico\obj\Debug\Diagnóstico Médico.csproj.AssemblyReference.cache
+C:\Users\mairg\Downloads\Proyecto_Final_Datos\Diagnóstico Médico\Diagnóstico Médico\obj\Debug\Diagnóstico Médico.csproj.CoreCompileInputs.cache
+C:\Users\mairg\Downloads\Proyecto_Final_Datos\Diagnóstico Médico\Diagnóstico Médico\bin\Debug\Diagnóstico Médico.exe.config
+C:\Users\mairg\Downloads\Proyecto_Final_Datos\Diagnóstico Médico\Diagnóstico Médico\bin\Debug\Diagnóstico Médico.exe
+C:\Users\mairg\Downloads\Proyecto_Final_Datos\Diagnóstico Médico\Diagnóstico Médico\bin\Debug\Diagnóstico Médico.pdb
+C:\Users\mairg\Downloads\Proyecto_Final_Datos\Diagnóstico Médico\Diagnóstico Médico\obj\Debug\Diagnóstico Médico.exe
+C:\Users\mairg\Downloads\Proyecto_Final_Datos\Diagnóstico Médico\Diagnóstico Médico\obj\Debug\Diagnóstico Médico.pdb
